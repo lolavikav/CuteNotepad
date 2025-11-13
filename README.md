@@ -12,9 +12,13 @@ https://www.canva.com/design/DAG0NXl_tmU/joVZrEWgmY-gAz_xJKzeJg/edit?utm_content
 https://www.figma.com/design/TpnitWP31YJoJyLELxrO8M/Untitled?t=DFwgDLElJpvugP0p-1
 
 ## 3. UI (User Interface) Project
-<img width="799" height="454" alt="image" src="https://github.com/user-attachments/assets/d32a9bca-fc00-486f-a099-d88a40e4225d" />
-https://www.figma.com/design/JZcZOnCIXVOy1w4rWcVa4H/Untitled?node-id=0-1&t=6Q58h1lUnYNtAng1-1 
+<img width="846" height="435" alt="image" src="https://github.com/user-attachments/assets/d8b65e38-5cf5-4d3c-a3c2-cc29ccb6f58c" />
+https://www.figma.com/design/t4ndwn6mvfl42V32bbLlMw/Untitled?node-id=0-1&t=MUUg9yqyN8w7ksEn-1
 
 ## 4. UX (User Experience) Project
-<img width="2514" height="814" alt="UX FIGMA" src="https://github.com/user-attachments/assets/349037e0-295c-4d96-a27f-3e77a1e4d36d" />
-https://www.figma.com/design/t4ndwn6mvfl42V32bbLlMw/Untitled?node-id=0-1&t=DFwgDLElJpvugP0p-1 
+<img width="1159" height="463" alt="image" src="https://github.com/user-attachments/assets/b6b5d2e3-5062-4b48-8805-09af1fe907eb" />
+https://www.figma.com/design/JZcZOnCIXVOy1w4rWcVa4H/Untitled?t=MUUg9yqyN8w7ksEn-1
+
+## 5. Splash Screen
+<img width="850" height="623" alt="Screenshot 2025-11-13 211406" src="https://github.com/user-attachments/assets/dcdb8637-9715-4b1b-a86e-6c7594155c35" />
+
