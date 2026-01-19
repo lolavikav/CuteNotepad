@@ -1,7 +1,8 @@
 # CuteNotepad
 
 ## Timeline Project (Gantt Chart/ Jadwal Pembuatan)
-<img width="1916" height="935" alt="CLICKUP" src="https://github.com/user-attachments/assets/c4b7675d-24af-4a90-9ba3-4509af842dd9" />
+<img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/b156e97a-e6dd-49e0-9285-7e4d3fcdc73c" />
+
 
 ## 1. Storyboard Project
 <img width="2000" height="1600" alt="storyboard catatan" src="https://github.com/user-attachments/assets/6ef233e5-b533-4b4e-bd95-41ce2bff99a5" />
