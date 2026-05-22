@@ -2,6 +2,7 @@
 
 ## Timeline Project (Gantt Chart/ Jadwal Pembuatan)
 <img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/b156e97a-e6dd-49e0-9285-7e4d3fcdc73c" />
+<img width="1699" height="822" alt="Screenshot 2026-05-22 155856" src="https://github.com/user-attachments/assets/069ee907-36f7-4262-a7f5-dc797f099ad6" />
 
 
 ## 1. Storyboard Project
@@ -15,6 +16,7 @@ https://www.figma.com/design/TpnitWP31YJoJyLELxrO8M/Untitled?t=DFwgDLElJpvugP0p-
 ## 3. UI (User Interface) Project
 <img width="846" height="435" alt="image" src="https://github.com/user-attachments/assets/d8b65e38-5cf5-4d3c-a3c2-cc29ccb6f58c" />
 https://www.figma.com/design/t4ndwn6mvfl42V32bbLlMw/Untitled?node-id=0-1&t=MUUg9yqyN8w7ksEn-1
+<img width="1181" height="407" alt="Screenshot 2026-05-22 155434" src="https://github.com/user-attachments/assets/591bad95-9910-45e7-aa9e-47162453e692" />
 
 ## 4. UX (User Experience) Project
 
