@@ -16,12 +16,13 @@ https://www.figma.com/design/TpnitWP31YJoJyLELxrO8M/Untitled?t=DFwgDLElJpvugP0p-
 ## 3. UI (User Interface) Project
 <img width="846" height="435" alt="image" src="https://github.com/user-attachments/assets/d8b65e38-5cf5-4d3c-a3c2-cc29ccb6f58c" />
 https://www.figma.com/design/t4ndwn6mvfl42V32bbLlMw/Untitled?node-id=0-1&t=MUUg9yqyN8w7ksEn-1
-<img width="1181" height="407" alt="Screenshot 2026-05-22 155434" src="https://github.com/user-attachments/assets/591bad95-9910-45e7-aa9e-47162453e692" />
+
+
 
 ## 4. UX (User Experience) Project
 
 <img width="1176" height="444" alt="Screenshot 2026-01-19 132428" src="https://github.com/user-attachments/assets/ceaae178-9e62-41d6-b7c4-1d664bb80ee7" />
 
-
+<img width="1181" height="407" alt="Screenshot 2026-05-22 155434" src="https://github.com/user-attachments/assets/591bad95-9910-45e7-aa9e-47162453e692" />
 
 
